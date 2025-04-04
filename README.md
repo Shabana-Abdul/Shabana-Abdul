@@ -3,8 +3,8 @@
 💡 **Expertise:** Data Analytics, Business Intelligence, SQL Optimization, Reporting & Dashboards  
 ⚙️ **Technologies:** SQL, Python, Tableau, Microsoft Excel, Power BI, MySQL, ETL  
 🎓 **Education:** Masters in Information Systems, Northeastern University 
-💼 **Experience:** Commonwealth of Massachusetts , PwC Accelaration Center
-📊 **Passionate about:** Extracting insights from data, building scalable data solution, and driving business decisions  
+💼 **Experience:** Commonwealth of Massachusetts , PwC Accelaration Center 
+📊 **Passionate about:** Extracting insights from data, building scalable data solution, and driving business decisions   
 ☁️ **Exploring:** Data Analytics, Data Engineering, Business Intelligence, Cloud Technologies, and AI-driven Analytics  
 
 
